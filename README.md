@@ -3,8 +3,6 @@ This project involved scraping of data across 100 top products of 7 prominent ca
 Sentiment analysis of each product was performed using Microsoft Azure Text Analytics API.     
 A product’s rank in response to multiple predictor parameters was then statistically modeled to draw insights regarding crucial rank-determining predictors which could be enhanced by the seller to boost sales.
 
-Link for video demonstration:
-https://youtu.be/H6c2-MjhZY0
 
 Detailed overview of all the steps to follow:
 
