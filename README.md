@@ -1,4 +1,4 @@
-# Amazon_HotNewReleases--methodology
+# Amazon_HotNewReleases-methodology
 This project involved scraping of data across 100 top products of 7 prominent categories from Amazon using ‘Beautiful Soup’ package in Python.      
 Sentiment analysis of each product was performed using Microsoft Azure Text Analytics API.     
 A product’s rank in response to multiple predictor parameters was then statistically modeled to draw insights regarding crucial rank-determining predictors which could be enhanced by the seller to boost sales.
